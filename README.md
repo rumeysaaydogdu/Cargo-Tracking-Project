@@ -2,6 +2,8 @@
 
 Cargoes are tracked in this project. The developed automation allows the records to be kept in digital environment, It can follow up the information of a customer cargo, invoice information, the courier information that brought the kago and the branch information where the cargo will come. The courier can view and edit the cargo to be delivered and customer information. Personnel has all the powers in the system. This project allows the cargoes to be arranged on the automation system. 
 
+Cargoes are tracked in this project.The developed automation enables the records to be kept in a digital environment. Personnel has all the powers in the system. This project; It enables the organization of the cargo, customer, personnel and courier information on the automation system. 
+
 # Home Page
 
 ![musteriGiris](https://user-images.githubusercontent.com/71151015/119105966-84889800-ba26-11eb-9a8a-128c1f0ea29a.PNG)
