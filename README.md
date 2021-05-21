@@ -31,3 +31,12 @@
 # Examples of delete operations 
 
 ![personelMusteri_sil](https://user-images.githubusercontent.com/71151015/119106113-ac77fb80-ba26-11eb-85db-02bc19637b66.PNG)
+
+# Page Navigation Model
+
+![PageNavigationModel](https://user-images.githubusercontent.com/71151015/119106924-71c29300-ba27-11eb-830c-27e82b5e4380.PNG)
+
+# Diagram
+
+![cargo_diagram](https://user-images.githubusercontent.com/71151015/119106932-74bd8380-ba27-11eb-9a11-818de28c263a.PNG)
+
